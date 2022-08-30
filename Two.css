@@ -1,0 +1,37 @@
+.nav {
+  list-style-type: none;
+  display: flex;
+}
+
+html {
+  background-color: #000002;
+}
+
+.google {
+  padding-right: 20px;
+
+}
+
+.youtube {
+  padding-right: 20px;
+}
+
+.facebook {
+  padding-right: 20px;
+}
+
+.instagram {
+  padding-right: 20px;
+}
+
+body {
+  background-image: url("Hisenberg.jpeg");
+  background-repeat: no-repeat;
+  background-size: 500px 700px;
+  background-position: center top;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
